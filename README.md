@@ -4,7 +4,7 @@
 
 ## Description
 
-  This project is a simple tap exercise.
+  This project is a simple tap exercise. This project assumes the system only return tap on and tap off from start stop to end stop. For example, user tap on at stop1 and tap off at stop3 and there is no data about stop2. 
 
 ------
 ## Dependency
